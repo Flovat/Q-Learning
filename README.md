@@ -1,4 +1,4 @@
-# MachineLearning
+# Q-learning
 The project is a deepening and operation testing of the "Q-Learning" algorithm.  
 We'll see as an agent placed in an unknown environment, it learns from his mistakes to arrive at the solution or in this case at the  exit of the labyrinth.
 

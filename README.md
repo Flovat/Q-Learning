@@ -7,5 +7,7 @@ One of his majors highlights are the ability to compare expected utility of avai
 
 Its goal is to allow an automatic learning system to adapt to the environment that surrounds it, improving the choice of actions to be performed. The model of the problem can be described by an agent, a set of states S and a set of action by state A. Performing an action the agent moves from one state to another state. Each state provides the agent with a reward (a real or natural number). The agent's goal is to maximize the total reward. The agent does this by learning what are the optimal actions associated with each state.
 
+Download exe : https://github.com/Flovat/Q-learning/tree/master/exe
+
 ![Banner](https://user-images.githubusercontent.com/36336051/57639010-480c4100-75af-11e9-9859-1487320d338d.png)
 

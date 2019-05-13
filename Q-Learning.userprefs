@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\NPC\Agent.cs">
+    <Files>
+      <File FileName="Assets\Script\NPC\Agent.cs" Line="116" Column="47" />
+      <File FileName="Assets\Script\NPC\AllData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\NPC\Table_Q_UI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\NPC\TileGraph\GraphStructure.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\NPC\TileGraph\Node.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\NPC\PrintNumberOfTiles.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

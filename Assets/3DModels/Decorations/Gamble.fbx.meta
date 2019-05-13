@@ -1,0 +1,625 @@
+fileFormatVersion: 2
+guid: 089422c1f506c8a489e7e39271ef3deb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box001.001
+    100004: Box002
+    100006: Box002.001
+    100008: Box003
+    100010: Box003.001
+    100012: Box004
+    100014: Box004.001
+    100016: Box005
+    100018: Box005.001
+    100020: Box006
+    100022: Box006.001
+    100024: Box007
+    100026: Box007.001
+    100028: Box008
+    100030: Box008.001
+    100032: Box009
+    100034: Box009.001
+    100036: Box010
+    100038: Box010.001
+    100040: Box011
+    100042: Box011.001
+    100044: Box012
+    100046: Box012.001
+    100048: Box013
+    100050: Box013.001
+    100052: Box014
+    100054: Box014.001
+    100056: Box015
+    100058: Box015.001
+    100060: Box016
+    100062: Box016.001
+    100064: Box017
+    100066: Box017.001
+    100068: Box018
+    100070: Box018.001
+    100072: Box019
+    100074: Box019.001
+    100076: Box020
+    100078: Box020.001
+    100080: Box021
+    100082: Box021.001
+    100084: Box022
+    100086: Box022.001
+    100088: Box023
+    100090: Box023.001
+    100092: Box024
+    100094: Box024.001
+    100096: Box025
+    100098: Box025.001
+    100100: Box026
+    100102: Box026.001
+    100104: Box027
+    100106: Box027.001
+    100108: Box028
+    100110: Box028.001
+    100112: Box029
+    100114: Box029.001
+    100116: Box030
+    100118: Box030.001
+    100120: Box031
+    100122: Box031.001
+    100124: Box032
+    100126: Box032.001
+    100128: Box033
+    100130: Box033.001
+    100132: Box034
+    100134: Box034.001
+    100136: Box035
+    100138: Box035.001
+    100140: Box036
+    100142: Box036.001
+    100144: Box038
+    100146: Box038.001
+    100148: //RootNode
+    100150: Mesh1 Model
+    100152: Mesh10 Model
+    100154: Mesh11 Model
+    100156: Mesh12 Model
+    100158: Mesh13 Model
+    100160: Mesh14 Model
+    100162: Mesh15 Model
+    100164: Mesh16 Model
+    100166: Mesh17 Model
+    100168: Mesh18 Model
+    100170: Mesh19 Model
+    100172: Mesh2 Model
+    100174: Mesh20 Model
+    100176: Mesh21 Model
+    100178: Mesh22 Model
+    100180: Mesh23 Model
+    100182: Mesh24 Model
+    100184: Mesh25 Model
+    100186: Mesh26 Model
+    100188: Mesh27 Model
+    100190: Mesh28 Model
+    100192: Mesh29 Model
+    100194: Mesh3 Model
+    100196: Mesh4 Model
+    100198: Mesh5 Model
+    100200: Mesh6 Model
+    100202: Mesh7 Model
+    100204: Mesh8 Model
+    100206: Mesh9 Model
+    100208: model.002
+    400000: Box001
+    400002: Box001.001
+    400004: Box002
+    400006: Box002.001
+    400008: Box003
+    400010: Box003.001
+    400012: Box004
+    400014: Box004.001
+    400016: Box005
+    400018: Box005.001
+    400020: Box006
+    400022: Box006.001
+    400024: Box007
+    400026: Box007.001
+    400028: Box008
+    400030: Box008.001
+    400032: Box009
+    400034: Box009.001
+    400036: Box010
+    400038: Box010.001
+    400040: Box011
+    400042: Box011.001
+    400044: Box012
+    400046: Box012.001
+    400048: Box013
+    400050: Box013.001
+    400052: Box014
+    400054: Box014.001
+    400056: Box015
+    400058: Box015.001
+    400060: Box016
+    400062: Box016.001
+    400064: Box017
+    400066: Box017.001
+    400068: Box018
+    400070: Box018.001
+    400072: Box019
+    400074: Box019.001
+    400076: Box020
+    400078: Box020.001
+    400080: Box021
+    400082: Box021.001
+    400084: Box022
+    400086: Box022.001
+    400088: Box023
+    400090: Box023.001
+    400092: Box024
+    400094: Box024.001
+    400096: Box025
+    400098: Box025.001
+    400100: Box026
+    400102: Box026.001
+    400104: Box027
+    400106: Box027.001
+    400108: Box028
+    400110: Box028.001
+    400112: Box029
+    400114: Box029.001
+    400116: Box030
+    400118: Box030.001
+    400120: Box031
+    400122: Box031.001
+    400124: Box032
+    400126: Box032.001
+    400128: Box033
+    400130: Box033.001
+    400132: Box034
+    400134: Box034.001
+    400136: Box035
+    400138: Box035.001
+    400140: Box036
+    400142: Box036.001
+    400144: Box038
+    400146: Box038.001
+    400148: //RootNode
+    400150: Mesh1 Model
+    400152: Mesh10 Model
+    400154: Mesh11 Model
+    400156: Mesh12 Model
+    400158: Mesh13 Model
+    400160: Mesh14 Model
+    400162: Mesh15 Model
+    400164: Mesh16 Model
+    400166: Mesh17 Model
+    400168: Mesh18 Model
+    400170: Mesh19 Model
+    400172: Mesh2 Model
+    400174: Mesh20 Model
+    400176: Mesh21 Model
+    400178: Mesh22 Model
+    400180: Mesh23 Model
+    400182: Mesh24 Model
+    400184: Mesh25 Model
+    400186: Mesh26 Model
+    400188: Mesh27 Model
+    400190: Mesh28 Model
+    400192: Mesh29 Model
+    400194: Mesh3 Model
+    400196: Mesh4 Model
+    400198: Mesh5 Model
+    400200: Mesh6 Model
+    400202: Mesh7 Model
+    400204: Mesh8 Model
+    400206: Mesh9 Model
+    400208: model.002
+    2100000: mat21.002
+    2100002: mat8
+    2100004: mat5
+    2100006: mat23
+    2100008: mat11
+    2100010: _Wood_cherry_
+    2100012: _Black_
+    2100014: FrontColor
+    2100016: Color_G06
+    2100018: racetracklayout
+    2100020: Color_M08
+    2100022: 02___Default.001
+    2100024: _crayfishdiffuse.001
+    2100026: 02___Default
+    2100028: _crayfishdiffuse
+    2300000: Box001
+    2300002: Box001.001
+    2300004: Box002
+    2300006: Box002.001
+    2300008: Box003
+    2300010: Box003.001
+    2300012: Box004
+    2300014: Box004.001
+    2300016: Box005
+    2300018: Box005.001
+    2300020: Box006
+    2300022: Box006.001
+    2300024: Box007
+    2300026: Box007.001
+    2300028: Box008
+    2300030: Box008.001
+    2300032: Box009
+    2300034: Box009.001
+    2300036: Box010
+    2300038: Box010.001
+    2300040: Box011
+    2300042: Box011.001
+    2300044: Box012
+    2300046: Box012.001
+    2300048: Box013
+    2300050: Box013.001
+    2300052: Box014
+    2300054: Box014.001
+    2300056: Box015
+    2300058: Box015.001
+    2300060: Box016
+    2300062: Box016.001
+    2300064: Box017
+    2300066: Box017.001
+    2300068: Box018
+    2300070: Box018.001
+    2300072: Box019
+    2300074: Box019.001
+    2300076: Box020
+    2300078: Box020.001
+    2300080: Box021
+    2300082: Box021.001
+    2300084: Box022
+    2300086: Box022.001
+    2300088: Box023
+    2300090: Box023.001
+    2300092: Box024
+    2300094: Box024.001
+    2300096: Box025
+    2300098: Box025.001
+    2300100: Box026
+    2300102: Box026.001
+    2300104: Box027
+    2300106: Box027.001
+    2300108: Box028
+    2300110: Box028.001
+    2300112: Box029
+    2300114: Box029.001
+    2300116: Box030
+    2300118: Box030.001
+    2300120: Box031
+    2300122: Box031.001
+    2300124: Box032
+    2300126: Box032.001
+    2300128: Box033
+    2300130: Box033.001
+    2300132: Box034
+    2300134: Box034.001
+    2300136: Box035
+    2300138: Box035.001
+    2300140: Box036
+    2300142: Box036.001
+    2300144: Box038
+    2300146: Box038.001
+    2300148: Mesh1 Model
+    2300150: Mesh10 Model
+    2300152: Mesh11 Model
+    2300154: Mesh12 Model
+    2300156: Mesh13 Model
+    2300158: Mesh14 Model
+    2300160: Mesh15 Model
+    2300162: Mesh16 Model
+    2300164: Mesh17 Model
+    2300166: Mesh18 Model
+    2300168: Mesh19 Model
+    2300170: Mesh2 Model
+    2300172: Mesh20 Model
+    2300174: Mesh21 Model
+    2300176: Mesh22 Model
+    2300178: Mesh23 Model
+    2300180: Mesh24 Model
+    2300182: Mesh25 Model
+    2300184: Mesh26 Model
+    2300186: Mesh27 Model
+    2300188: Mesh28 Model
+    2300190: Mesh29 Model
+    2300192: Mesh3 Model
+    2300194: Mesh4 Model
+    2300196: Mesh5 Model
+    2300198: Mesh6 Model
+    2300200: Mesh7 Model
+    2300202: Mesh8 Model
+    2300204: Mesh9 Model
+    2300206: model.002
+    3300000: Box001
+    3300002: Box001.001
+    3300004: Box002
+    3300006: Box002.001
+    3300008: Box003
+    3300010: Box003.001
+    3300012: Box004
+    3300014: Box004.001
+    3300016: Box005
+    3300018: Box005.001
+    3300020: Box006
+    3300022: Box006.001
+    3300024: Box007
+    3300026: Box007.001
+    3300028: Box008
+    3300030: Box008.001
+    3300032: Box009
+    3300034: Box009.001
+    3300036: Box010
+    3300038: Box010.001
+    3300040: Box011
+    3300042: Box011.001
+    3300044: Box012
+    3300046: Box012.001
+    3300048: Box013
+    3300050: Box013.001
+    3300052: Box014
+    3300054: Box014.001
+    3300056: Box015
+    3300058: Box015.001
+    3300060: Box016
+    3300062: Box016.001
+    3300064: Box017
+    3300066: Box017.001
+    3300068: Box018
+    3300070: Box018.001
+    3300072: Box019
+    3300074: Box019.001
+    3300076: Box020
+    3300078: Box020.001
+    3300080: Box021
+    3300082: Box021.001
+    3300084: Box022
+    3300086: Box022.001
+    3300088: Box023
+    3300090: Box023.001
+    3300092: Box024
+    3300094: Box024.001
+    3300096: Box025
+    3300098: Box025.001
+    3300100: Box026
+    3300102: Box026.001
+    3300104: Box027
+    3300106: Box027.001
+    3300108: Box028
+    3300110: Box028.001
+    3300112: Box029
+    3300114: Box029.001
+    3300116: Box030
+    3300118: Box030.001
+    3300120: Box031
+    3300122: Box031.001
+    3300124: Box032
+    3300126: Box032.001
+    3300128: Box033
+    3300130: Box033.001
+    3300132: Box034
+    3300134: Box034.001
+    3300136: Box035
+    3300138: Box035.001
+    3300140: Box036
+    3300142: Box036.001
+    3300144: Box038
+    3300146: Box038.001
+    3300148: Mesh1 Model
+    3300150: Mesh10 Model
+    3300152: Mesh11 Model
+    3300154: Mesh12 Model
+    3300156: Mesh13 Model
+    3300158: Mesh14 Model
+    3300160: Mesh15 Model
+    3300162: Mesh16 Model
+    3300164: Mesh17 Model
+    3300166: Mesh18 Model
+    3300168: Mesh19 Model
+    3300170: Mesh2 Model
+    3300172: Mesh20 Model
+    3300174: Mesh21 Model
+    3300176: Mesh22 Model
+    3300178: Mesh23 Model
+    3300180: Mesh24 Model
+    3300182: Mesh25 Model
+    3300184: Mesh26 Model
+    3300186: Mesh27 Model
+    3300188: Mesh28 Model
+    3300190: Mesh29 Model
+    3300192: Mesh3 Model
+    3300194: Mesh4 Model
+    3300196: Mesh5 Model
+    3300198: Mesh6 Model
+    3300200: Mesh7 Model
+    3300202: Mesh8 Model
+    3300204: Mesh9 Model
+    3300206: model.002
+    4300000: model.002
+    4300002: Mesh3 Model
+    4300004: Mesh27 Model
+    4300006: Mesh29 Model
+    4300008: Mesh10 Model
+    4300010: Mesh28 Model
+    4300012: Mesh9 Model
+    4300014: Mesh8 Model
+    4300016: Mesh26 Model
+    4300018: Mesh15 Model
+    4300020: Mesh1 Model
+    4300022: Mesh12 Model
+    4300024: Mesh6 Model
+    4300026: Mesh7 Model
+    4300028: Mesh18 Model
+    4300030: Mesh19 Model
+    4300032: Mesh25 Model
+    4300034: Mesh11 Model
+    4300036: Mesh14 Model
+    4300038: Mesh17 Model
+    4300040: Mesh22 Model
+    4300042: Mesh21 Model
+    4300044: Mesh2 Model
+    4300046: Mesh13 Model
+    4300048: Mesh16 Model
+    4300050: Mesh5 Model
+    4300052: Mesh24 Model
+    4300054: Mesh20 Model
+    4300056: Mesh23 Model
+    4300058: Mesh4 Model
+    4300060: Box019.001
+    4300062: Box014.001
+    4300064: Box008.001
+    4300066: Box005.001
+    4300068: Box035.001
+    4300070: Box021.001
+    4300072: Box003.001
+    4300074: Box018.001
+    4300076: Box020.001
+    4300078: Box023.001
+    4300080: Box036.001
+    4300082: Box029.001
+    4300084: Box006.001
+    4300086: Box011.001
+    4300088: Box001.001
+    4300090: Box031.001
+    4300092: Box026.001
+    4300094: Box007.001
+    4300096: Box010.001
+    4300098: Box012.001
+    4300100: Box028.001
+    4300102: Box022.001
+    4300104: Box033.001
+    4300106: Box025.001
+    4300108: Box004.001
+    4300110: Box038.001
+    4300112: Box002.001
+    4300114: Box030.001
+    4300116: Box013.001
+    4300118: Box015.001
+    4300120: Box034.001
+    4300122: Box016.001
+    4300124: Box027.001
+    4300126: Box024.001
+    4300128: Box032.001
+    4300130: Box017.001
+    4300132: Box009.001
+    4300134: Box019
+    4300136: Box014
+    4300138: Box008
+    4300140: Box005
+    4300142: Box035
+    4300144: Box021
+    4300146: Box003
+    4300148: Box018
+    4300150: Box020
+    4300152: Box023
+    4300154: Box036
+    4300156: Box029
+    4300158: Box006
+    4300160: Box011
+    4300162: Box001
+    4300164: Box031
+    4300166: Box026
+    4300168: Box007
+    4300170: Box010
+    4300172: Box012
+    4300174: Box028
+    4300176: Box022
+    4300178: Box033
+    4300180: Box025
+    4300182: Box004
+    4300184: Box038
+    4300186: Box002
+    4300188: Box030
+    4300190: Box013
+    4300192: Box015
+    4300194: Box034
+    4300196: Box016
+    4300198: Box027
+    4300200: Box024
+    4300202: Box032
+    4300204: Box017
+    4300206: Box009
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
